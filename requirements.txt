@@ -1,2 +1,2 @@
 seaborn
---user -e git+https://github.com/clawpack/clawpack.git@v5.3.1#egg=clawpack
+-e git+https://github.com/clawpack/clawpack.git@v5.3.1#egg=clawpack
